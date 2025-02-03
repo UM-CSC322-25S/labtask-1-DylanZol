@@ -1,0 +1,12 @@
+Imagine you start a program from your command line prompt.
+What is your program's parent process?
+What is that process' parent process?
+What is that process' parent process?
+
+
+1. Your programs parent process is your shell, whatever it may be.
+
+2. The shell's parent process is whatever interface you are using, a terminal of some sort
+
+
+3. The terminals parent process would jump to the environment you are running in.
